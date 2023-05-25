@@ -23,7 +23,7 @@ function ID506978656C56616C7565(X: number, Y: number, Image2: Image) {
 /**
  * Image Editor
  */
-//% weight=49 color=#f1992b icon=""
+//% weight=49 color=#f1992b icon="\uf03e"
 namespace Image_Editor {
     /**
      * TODO: describe your function here, draw myImage onto myImage2
